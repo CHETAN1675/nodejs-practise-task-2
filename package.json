@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-practise-task-2",
+  "version": "1.0.0",
+  "description": "Node.js practise task 2 - store messages in a file and list them above the form, newest first",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["nodejs", "http", "fs", "practise"],
+  "author": "chetan1675",
+  "license": "ISC"
+}
